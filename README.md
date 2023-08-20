@@ -1,10 +1,9 @@
 ![image](https://github.com/AbnerMCunha/LibraryReactBooks/assets/38359487/1d377cb6-4a75-4ab9-996b-5f92d0962d4c)
 
   Para executar a Aplicação:
-    1. Instalar o NODE
+    1. Abrir pasta do Projeto, e no terminal Instalar o NODE (npm init)
     2. No terminal do projeto instalar a ferramenta "styled-components" ( com o Comando: npm install styled-components )
     3. No Terminal, rodar: npm Start
-
 
 Este é um projeto inicial feito a base de React com os Conceitos mais utilizados por essa ferramenta:
 - Componentização reutilizavel: por meio de Containers, que são quem encapsular códigos JSW para serem reutilizaveis em outras partes do código.
