@@ -1,3 +1,22 @@
+
+  Para executar a Aplicação:
+    1. Instalar o NODE
+    2. No terminal do projeto instalar a ferramenta "styled-components" ( com o Comando: npm install styled-components )
+    3. No Terminal, rodar: npm Start
+
+
+Este é um projeto inicial feito a base de React com os Conceitos mais utilizados por essa ferramenta:
+- Componentização reutilizavel
+- StyledComponents com o Global Style pra realizar as estilizações necessárias, com um layout padrão no projeto todo, Integrando o css ao código, baseado nas melhores práticas de utilização do REACT
+- Compreensão do arquivo "Index.JS" que é o arquivo de configuração principal da aplicação onde referenciamos o Global Style
+- Maps: percorrer uma lista json, para reutilizar melhor os componentes
+- Filtros de Array com includes, filtrando os livros por nome e trazendo Nome e Imagem.
+- StateValue: para deixar o site mais reativo a interação do usuario ao pesquisar alguma coisa no site.
+- Props: para personalizar os estilos globais em uma parte especifica do site.
+
+
+
+-------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
