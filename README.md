@@ -6,7 +6,7 @@
 
 
 Este é um projeto inicial feito a base de React com os Conceitos mais utilizados por essa ferramenta:
-- Componentização reutilizavel
+- Componentização reutilizavel: por meio de Containers, que são quem encapsular códigos JSW para serem reutilizaveis em outras partes do código.
 - StyledComponents com o Global Style pra realizar as estilizações necessárias, com um layout padrão no projeto todo, Integrando o css ao código, baseado nas melhores práticas de utilização do REACT
 - Compreensão do arquivo "Index.JS" que é o arquivo de configuração principal da aplicação onde referenciamos o Global Style
 - Maps: percorrer uma lista json, para reutilizar melhor os componentes
