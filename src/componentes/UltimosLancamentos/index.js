@@ -25,9 +25,11 @@ const NovosLivrosContainer = styled.div`
 
 function UltimosLancamentos(){
     return (
+
+
         <UltimosLancamentosContainer>
             <Titulo cor='#EB9B00' tamanhoFonte='38px' padding='20px' >Últimos Lançamentos</Titulo>
-            <NovosLivrosContainer>                
+            <NovosLivrosContainer >
                 {
                     livros.map( 
                         livro => ( 
